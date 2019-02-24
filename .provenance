@@ -1,0 +1,5 @@
+This project was created by Atomist from seed project https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-activemq
+
+Transform recipes:
+	placeholders
+	default-snip
